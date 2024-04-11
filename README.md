@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Prasanna-sirimalla
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- currently a 3rd year engineering student
+- iam good at C,Python,HTML
+- 
 
 <!---
 Prasanna-sirimalla/Prasanna-sirimalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
