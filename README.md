@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning machine learning
 - currently a 3rd year engineering student
 - iam good at C,Python,HTML
-- 
 
 <!---
 Prasanna-sirimalla/Prasanna-sirimalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
