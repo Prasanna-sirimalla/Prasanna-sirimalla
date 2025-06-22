@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanna-sirimalla
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning machine learning
-- currently a 3rd year engineering student
+- currently a 4th year engineering student
 - iam good at C,Python,HTML
 
 <!---
